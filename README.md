@@ -7,8 +7,6 @@
 I enjoy turning data into meaningful insights and building practical software solutions.  
 I'm currently strengthening my skills in statistical analysis, machine learning, data engineering, and full-stack development.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanith-sathnidu-1ba930361)
-[![GitHub](https://img.shields.io/badge/GitHub-MrSanith-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrSanith)
 
 </div>
 
